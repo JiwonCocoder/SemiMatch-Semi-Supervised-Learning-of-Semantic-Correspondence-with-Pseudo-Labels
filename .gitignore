@@ -1,0 +1,13 @@
+run_1.sh
+run_2.sh
+run_3.sh
+run_4.sh
+run_spair_2.sh
+run_test_jw.sh
+snapshots_supp/
+datasets/
+CATs/pretrained/spair_no_freeze/epoch_11.pth
+semimatch/semimatch_ori.py
+semimatch/semimatch_pred_flow.py
+semimatch/semimatch_S_Tvec.py
+semimatch/semimatch_from_transformed_output.py
